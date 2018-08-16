@@ -1,0 +1,2 @@
+// Débloquer le changement de couleur de la barre des tâches de Windows 10
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize

@@ -1,2 +1,10 @@
-// DÈbloquer le changement de couleur de la barre des t‚ches de Windows 10
+// D√©bloquer le changement de couleur de la barre des t√¢ches de Windows 10
 HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize
+
+// Profil Utilisateur Windows 10
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
+
+// Autoris√© l'Affichage des images dans Outlook
+HKEY_CURRENT_USER\Software\Microsoft\Office\x.0\Common
+DWORD: BlockHTTPimages
+
